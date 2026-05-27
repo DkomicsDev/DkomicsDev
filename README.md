@@ -21,12 +21,11 @@
 ```javascript
 const Dkomics = {
   pseudo:    "Dkomics",
-  compte:    "DkomicsDev",
-  localité:  "Belgique 🇧🇪",
+  localité:  "Belgium 🇧🇪",
   stack:     ["HTML", "CSS", "JavaScript"],
-  focus:     "UI créative & expériences web",
-  philosophie: "間 — l'espace qui donne sens",
-  statut:    "En train de coder... 🌙"
+  focus:     "UI créative & web experience",
+  philosophie: "Each day is the sum of the previous days",
+  statut:    "Learning 🌙"
 };
 ```
 
@@ -40,7 +39,7 @@ $ git status
 # 🔭 Travaille sur un projet perso
 # 🌱 Approfondit JavaScript vanilla
 # 🎨 Explore le CSS avancé
-# ⛩️  Fans de design sombre & japonais
+# ⛩️  Vidéos games/manga/Comics
 ```
 
 </td>
@@ -59,9 +58,6 @@ $ git status
 ![CSS3](https://img.shields.io/badge/CSS3-2d1b4e?style=for-the-badge&logo=css3&logoColor=c39fdb)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3d1a6e?style=for-the-badge&logo=javascript&logoColor=c39fdb)
 ![VS Code](https://img.shields.io/badge/VS_Code-1a0a2e?style=for-the-badge&logo=visualstudiocode&logoColor=c39fdb)
-![Git](https://img.shields.io/badge/Git-2d1b4e?style=for-the-badge&logo=git&logoColor=c39fdb)
-![GitHub](https://img.shields.io/badge/GitHub-3d1a6e?style=for-the-badge&logo=github&logoColor=c39fdb)
-
 </div>
 
 ---
