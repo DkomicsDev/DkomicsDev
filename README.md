@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=console.log(%22Welcome+%F0%9F%AA%B7%22);+%2F%2F+ようこそ;const+dev+%3D+%22Frontend+%26+Creative%22;%3C%2F%3E+%2B+きれいなコード)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=console.log(%22Welcome+%F0%9F%AA%B7%22);+%2F%2F+ようこそ;const+dev+%3D+%22Frontend+%26+Creative%22;%3C%2F%3E+きれいなコード)](https://git.io/typing-svg)
 
 </div>
 
