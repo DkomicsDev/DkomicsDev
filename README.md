@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=console.log(%22Bienvenue+%F0%9F%AA%B7%22);+%2F%2F+ようこそ;const+dev+%3D+%22Frontend+%26+Creative%22;%3C%2F%3E+Clean+code+%2B+beau+design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=console.log(%22Welcome+%F0%9F%AA%B7%22);+%2F%2F+ようこそ;const+dev+%3D+%22Frontend+%26+Creative%22;%3C%2F%3E+Clean+code+%2B+きれいなコード)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,7 +24,7 @@ const Dkomics = {
   localité:  "Belgium 🇧🇪",
   stack:     ["HTML", "CSS", "JavaScript"],
   focus:     "UI créative & web experience",
-  philosophie: "Each day is the sum of the previous days",
+  philosophy: "Each day is the sum of the previous days",
   statut:    "Learning 🌙"
 };
 ```
@@ -36,9 +36,9 @@ const Dkomics = {
 
 ```bash
 $ git status
-# 🔭 Travaille sur un projet perso
-# 🌱 Approfondit JavaScript vanilla
-# 🎨 Explore le CSS avancé
+# 🔭 Working on a personal project
+# 🌱 Goes deeper into vanilla JavaScript
+# 🎨 Explore advanced CSS
 # ⛩️  Vidéos games/manga/Comics
 ```
 
